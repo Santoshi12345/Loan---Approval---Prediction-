@@ -8,3 +8,11 @@ using a Decision Tree Machine Learning model.
 - Python
 - Pandas
 - Scikit-learn
+## How It Works
+1. Load the dataset
+2. Convert categorical values into numerical format
+3. Split dataset into training and testing data
+4. Train Random Forest model
+5. Predict loan approval status
+6. Calculate model accuracy
+   
